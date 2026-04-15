@@ -1,5 +1,5 @@
 
-# Syook DevOps Field Engineer Assignment
+# Multi-Stack-Devops-Deployment
 
 ## Overview
 This project demonstrates deployment of a MERN + LAMP stack using Docker Compose, CI/CD automation using GitHub Actions, and basic network security hardening.
